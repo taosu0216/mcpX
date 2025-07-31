@@ -1,4 +1,4 @@
-module mcpX
+module github.com/taosu0216/mcpX
 
 go 1.24.4
 
